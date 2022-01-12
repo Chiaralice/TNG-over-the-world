@@ -8,7 +8,7 @@ Please, use http://markdowntable.com/ to keep the tables formatted in such a way
 | City     | Communication channels                                                                                        | Notes |
 |----------|---------------------------------------------------------------------------------------------------------------|-------|
 | Milano   | Telegram (news): https://t.me/+Rwqy3gqPGzxSPSMC <br> Telegram (group): https://t.me/joinchat/Us4mo7M-Ti4YSML5 |       |
-| Torino   | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
+| Torino   | Telegram (news): https://t.me/TNGTorino <br> Telegram (group): privato, contattare gli admin qui https://www.instagram.com/tng.torino/                    |       |
 | Roma     | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | NordEst  | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | Bologna  | Telegram (news): https://t.me/BolognaTNG_rss <br> [Channel 2]: ...                                            |       |

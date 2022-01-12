@@ -11,7 +11,7 @@ Please, use http://markdowntable.com/ to keep the tables formatted in such a way
 | Torino   | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | Roma     | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | NordEst  | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
-| Bologna  | Telegram (news): https://t.me/BolognaTNG_rss <br> [Channel 2]: https://t.me/aperikinky                        |       |
+| Bologna  | Telegram (news): https://t.me/BolognaTNG_rss <br> Telegram (group): https://t.me/aperikinky                   |       |
 | Napoli   | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | Genova   | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
 | Palermo  | [Channel 1]: ... <br> [Channel 2]: ...                                                                        |       |
